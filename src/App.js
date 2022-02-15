@@ -425,9 +425,8 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.Max NFT minted per account is 5.
+             Pls Don't change gas limit for the contract to
+            successfully mint your NFT.Max NFTs minted per account is 5.
           </s.TextDescription>
         </s.Container>
       </s.Container>
