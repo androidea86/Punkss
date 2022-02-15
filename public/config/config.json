@@ -6,8 +6,8 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
+  "NFT_NAME": "The n+ NFT",
+  "SYMBOL": "n+",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
