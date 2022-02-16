@@ -9,10 +9,10 @@
   "NFT_NAME": "The n+ NFT",
   "SYMBOL": "n+",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 10000000000000000,
+  "WEI_COST": 100000000000000000,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/n-plus-project",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
