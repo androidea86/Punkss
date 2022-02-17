@@ -411,7 +411,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#E5E5E5",
+              color: "#000000",
             }}
           >
             Please make sure you are connected to the right network (
@@ -422,7 +422,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "#E5E5E5",
+              color: "#000000",
             }}
           >
              Pls Don't change gas limit for the contract to
