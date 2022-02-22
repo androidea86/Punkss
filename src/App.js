@@ -419,6 +419,16 @@ function App() {
              Pls Don't change gas limit for the contract to
             successfully mint your NFT.Max NFTs minted per account is 5.
           </s.TextDescription>
+         <s.SpacerSmall />
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "#F44336",
+			        fontsize:"24",
+            }}
+          >
+            Pls use Speed Up Transanction in metamask to avoid Minting errors
+          </s.TextDescription>
         </s.Container>
       </s.Container>
     </s.Screen>
@@ -426,3 +436,4 @@ function App() {
 }
 
 export default App;
+
