@@ -213,7 +213,7 @@ function App() {
               color: "#F44336",
             }}
           >
-            Pls use Speed Up Transanction in metamask to avoid Minting errors
+            Pls use **Speed Up** Transanction in metamask to avoid Minting errors.
           </s.TextDescription1>
         </s.Container>	  
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
