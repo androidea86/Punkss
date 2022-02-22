@@ -192,19 +192,6 @@ function App() {
   useEffect(() => {
     getData();
   }, [blockchain.account]);
-
-<s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
-         <s.SpacerSmall />
-          <s.TextDescription
-            style={{
-              textAlign: "center",
-              color: "#F44336",
-			  fontsize:"24",
-            }}
-          >
-            Pls use Speed Up Transanction in metamask to avoid Minting errors
-          </s.TextDescription>
-        </s.Container>
   return (
     <s.Screen>
       <s.Container
@@ -217,6 +204,18 @@ function App() {
           <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         </a>
         <s.SpacerSmall />
+	<s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+         <s.SpacerSmall />
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "#F44336",
+			  fontsize:"24",
+            }}
+          >
+            Pls use Speed Up Transanction in metamask to avoid Minting errors
+          </s.TextDescription>
+        </s.Container>	  
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg alt={"example"} src={"/config/images/example.gif"} />
