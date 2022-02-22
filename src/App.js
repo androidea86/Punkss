@@ -213,7 +213,7 @@ function App() {
             }}
           >
             Pls use Speed Up Transanction in metamask to avoid Minting errors
-          </s.TextDescription>
+          </s.TextDescription1>
         </s.Container>	  
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
