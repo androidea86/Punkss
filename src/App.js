@@ -193,15 +193,18 @@ function App() {
     getData();
   }, [blockchain.account]);
 
-	<s.TextDescription
+<s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+         <s.SpacerSmall />
+          <s.TextDescription
             style={{
               textAlign: "center",
               color: "#F44336",
-			        fontsize:"50",
+			  fontsize:"24",
             }}
           >
             Pls use Speed Up Transanction in metamask to avoid Minting errors
           </s.TextDescription>
+        </s.Container>
   return (
     <s.Screen>
       <s.Container
