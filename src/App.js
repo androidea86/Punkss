@@ -424,7 +424,7 @@ function App() {
             style={{
               textAlign: "center",
               color: "#F44336",
-			        fontsize:"24",
+			        fontsize:"50",
             }}
           >
             Pls use Speed Up Transanction in metamask to avoid Minting errors
