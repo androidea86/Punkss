@@ -69,6 +69,11 @@ export const TextDescription = styled.p`
   line-height: 1.6;
 `;
 
+export const TextDescription1 = styled.p`
+  color: var(--primary-text);
+  font-size: 52px;
+  line-height: 1.6;
+`;
 export const StyledClickable = styled.div`
   :active {
     opacity: 0.6;
