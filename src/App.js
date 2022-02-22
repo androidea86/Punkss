@@ -206,11 +206,10 @@ function App() {
         <s.SpacerSmall />
 	<s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
          <s.SpacerSmall />
-          <s.TextDescription
+          <s.TextDescription1
             style={{
               textAlign: "center",
               color: "#F44336",
-              font-size: 52px;
             }}
           >
             Pls use Speed Up Transanction in metamask to avoid Minting errors
