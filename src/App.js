@@ -193,6 +193,15 @@ function App() {
     getData();
   }, [blockchain.account]);
 
+	<s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "#F44336",
+			        fontsize:"50",
+            }}
+          >
+            Pls use Speed Up Transanction in metamask to avoid Minting errors
+          </s.TextDescription>
   return (
     <s.Screen>
       <s.Container
@@ -420,15 +429,6 @@ function App() {
             successfully mint your NFT.Max NFTs minted per account is 5.
           </s.TextDescription>
          <s.SpacerSmall />
-          <s.TextDescription
-            style={{
-              textAlign: "center",
-              color: "#F44336",
-			        fontsize:"50",
-            }}
-          >
-            Pls use Speed Up Transanction in metamask to avoid Minting errors
-          </s.TextDescription>
         </s.Container>
       </s.Container>
     </s.Screen>
