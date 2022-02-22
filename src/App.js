@@ -163,8 +163,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 5) {
-      newMintAmount = 5;
+    if (newMintAmount > 10) {
+      newMintAmount = 10;
     }
     setMintAmount(newMintAmount);
   };
@@ -418,7 +418,7 @@ function App() {
             }}
           >
              Pls Don't change gas limit for the contract to
-            successfully mint your NFT.Max NFTs minted per account is 5.
+            successfully mint your NFT.Max NFTs minted per account is 10.
           </s.TextDescription>
          <s.SpacerSmall />
         </s.Container>
