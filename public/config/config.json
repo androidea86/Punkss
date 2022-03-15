@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xa49e987f92ee86d001a6601e96bc0ef2b0e12d21",
-  "SCAN_LINK": "https://polygonscan.com/token/0xa49e987f92ee86d001a6601e96bc0ef2b0e12d21",
+  "CONTRACT_ADDRESS": "0x0c7940a62e05d7582570bb618a58d0d079b6d5b6",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0c7940a62e05d7582570bb618a58d0d079b6d5b6",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "The n+ NFT",
   "SYMBOL": "n+",
-  "MAX_SUPPLY": 8999,
-  "WEI_COST": 1000000000000000,
-  "DISPLAY_COST":    0,
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST":    0.25,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/n-plus-project",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pinky-punkss",
   "SHOW_BACKGROUND": false
 }
