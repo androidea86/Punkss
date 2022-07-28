@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Pinky Punkss",
+  "NFT_NAME": "Polygon Apes",
   "SYMBOL": "PP",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST":    0.01,
+  "MAX_SUPPLY": 7000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST":    2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Elements Market",
-  "MARKETPLACE_LINK": "https://element.market/collections/PunkyPunkss",
+  "MARKETPLACE_LINK": "https://element.market/collections/polygon_apes",
   "SHOW_BACKGROUND": false
 }
